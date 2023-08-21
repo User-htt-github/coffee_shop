@@ -1,0 +1,9 @@
+- OUTPUT nghiên cứu mobile
+
++ Cài đặt và chạy project cơ bản
++ Tìm hiểu về .dart
++ Viết ứng dụng đầu tiên
+ 1. Tìm hiểu về Widget, stateful và stateless widget
+ 2. Tìm hiểu về sử dụng listview để hiển thị danh sách
+ 3. Điều hướng sang màn hình mới
+ 4. Viết ứng dụng đặt đồ uống basic
